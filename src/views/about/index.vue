@@ -24,6 +24,7 @@
 </script>
 
 <style lang="less" scoped>
+// 这里还有中英文版本的
   .about-content {
     width: 100%;
     padding: 0;
